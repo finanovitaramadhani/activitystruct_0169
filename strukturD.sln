@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strukturD", "strukturD\stru
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strukturD.2", "strukturD.2\strukturD.2.vcxproj", "{7A6A83CB-C507-4BF7-9BA3-13C6E1E72F4C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "strukturD.3", "strukturD.3\strukturD.3.vcxproj", "{C196399A-BC29-4778-B137-38DCA5036818}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{7A6A83CB-C507-4BF7-9BA3-13C6E1E72F4C}.Release|x64.Build.0 = Release|x64
 		{7A6A83CB-C507-4BF7-9BA3-13C6E1E72F4C}.Release|x86.ActiveCfg = Release|Win32
 		{7A6A83CB-C507-4BF7-9BA3-13C6E1E72F4C}.Release|x86.Build.0 = Release|Win32
+		{C196399A-BC29-4778-B137-38DCA5036818}.Debug|x64.ActiveCfg = Debug|x64
+		{C196399A-BC29-4778-B137-38DCA5036818}.Debug|x64.Build.0 = Debug|x64
+		{C196399A-BC29-4778-B137-38DCA5036818}.Debug|x86.ActiveCfg = Debug|Win32
+		{C196399A-BC29-4778-B137-38DCA5036818}.Debug|x86.Build.0 = Debug|Win32
+		{C196399A-BC29-4778-B137-38DCA5036818}.Release|x64.ActiveCfg = Release|x64
+		{C196399A-BC29-4778-B137-38DCA5036818}.Release|x64.Build.0 = Release|x64
+		{C196399A-BC29-4778-B137-38DCA5036818}.Release|x86.ActiveCfg = Release|Win32
+		{C196399A-BC29-4778-B137-38DCA5036818}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
